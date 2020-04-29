@@ -4,6 +4,6 @@
 
 ## Arco Voltaico
 
-| Mídia | Descrição | Autor |
+| Mídia | Autor | Descrição|
 |---| ---| --- |
-| Vídeo | [Waldo Viera aplicando técnica](https://www.youtube.com/watch?v=RDkHOBpvR_0) | Waldo Vieira|
+| Vídeo | Waldo Vieira| [Waldo Viera aplicando técnica](https://www.youtube.com/watch?v=RDkHOBpvR_0) |
